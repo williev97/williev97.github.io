@@ -5,7 +5,7 @@ div {
 #header {
   z-index: 1;
   position: fixed;
-  width: 95%;
+  width: 90%;
   margin-top: -20px;
   height: 60px;
   background-color: #5F9EA0;
@@ -26,6 +26,5 @@ div {
   font-size: 16px;
   font-family: Arial;
   color: white;
-  margin-bottom: 5px;
   text-decoration: none;
 }
