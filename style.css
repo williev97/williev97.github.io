@@ -25,6 +25,7 @@ div {
   margin-right: -20px;
   padding-top: 5px;
   font-size: 16px;
-  font-family: Verdana;
+  font-family: Arial;
   color: white;
+  text-decoration: none;
 }
