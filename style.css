@@ -26,5 +26,6 @@ div {
   font-size: 16px;
   font-family: Arial;
   color: white;
+  margin-bottom: 5px;
   text-decoration: none;
 }
