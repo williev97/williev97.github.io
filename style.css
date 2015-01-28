@@ -3,6 +3,7 @@ div {
 }
 
 #header {
+  z-index: 1;
   position: fixed;
   width: 95%;
   margin-top: -20px;
