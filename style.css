@@ -21,6 +21,7 @@ div {
 }
 
 #email {
+  position: absolute;
   float: right;
   margin-right: 50px;
   padding-top: 5px;
