@@ -34,10 +34,14 @@ div {
 }
 
 #background {
-  width: 100%;
-  height: 100%;
+ background-size: 100%;
 }
 
+body {
+  background: url(http://img82.imageshack.us/img82/3236/dancingchickengz1.gif);
+  background-size: 100%;
+  
+}
 
 
 
