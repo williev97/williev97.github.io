@@ -5,10 +5,10 @@ div {
 #header {
   z-index: 1;
   position: fixed;
-  width: 95%;
+  width: 100%;
   margin-top: -20px;
   height: 60px;
-  background-color: #5F9EA0;
+  background-color: ;
   margin-bottom: 10px;
 }
 
