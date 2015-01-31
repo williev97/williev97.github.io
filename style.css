@@ -46,6 +46,10 @@ body {
   
 }
 
+<audio control autoplay {
+  <source src="dancing duck.mp3" type="audio/mpeg">
+}
+
 
 
 
