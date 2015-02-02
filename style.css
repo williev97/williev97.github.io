@@ -32,6 +32,17 @@ div {
   text-decoration: none;
 }
 
+#likes {
+  z-index: 1;
+  position: fixed;
+  width: 25%;
+  margin-top: -20px;
+  margin-left: -8px;
+  height: 1000px;
+  background-color: blue;
+  margin-bottom: 10px;
+}
+
 #background {
  background-size: 100%;
 }
