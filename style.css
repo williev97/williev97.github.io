@@ -1,4 +1,4 @@
-div {
+iv {
   /*border-radius: 3px rgba(255, 255, 255, .5);*/
   border: 3px solid black;
   border-radius: 5px;
@@ -14,10 +14,9 @@ div {
   height: 40;*/
   z-index: 1;
   position: fixed;
-  width: 95%;
+  width: 98%;
   margin-top: -20px;
   margin-left: -8px;
-  margin-right: -8px;
   height: 100px;
   background-color: aliceblue;
   margin-bottom: 10px;
