@@ -29,7 +29,10 @@ div {
   height: 70px;
   width: 95%;
   margin-bottom: -20px;
-  
+}
+
+#things {
+  position: relative;
 }
 
 #name {
