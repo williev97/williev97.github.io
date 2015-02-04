@@ -33,7 +33,9 @@ div {
 
 #things {
   position: relative;
-   height: 400px;
+   height: 95%;
+   width: 25%;
+   margin: 0 auto;
 }
 
 #name {
