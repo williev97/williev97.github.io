@@ -24,6 +24,8 @@ div {
 
 #footer {
   z-index: 1;
+  position: absolute;
+  bottom: 0px;
   height: 70px;
   width: 95%;
   margin-bottom: -20px;
