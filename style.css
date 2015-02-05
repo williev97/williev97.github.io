@@ -32,10 +32,9 @@ div {
 }
 
 #things {
-  position: relative;
    height: 95%;
    width: 25%;
-   margin-top: -50px;
+   margin-bottom: -50px;
 }
 
 #name {
