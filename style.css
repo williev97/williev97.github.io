@@ -35,11 +35,12 @@ div {
    /*height: 95%;
    width: 25%;
    margin-bottom: -50px;*/
+   float: left;
    width: 1000px;
-    position: absolute;
-    top: 0px;
-    left: 50%;
-    margin-left: -500px;
+   position: absolute;
+   top: 0px;
+   left: 50%;
+   margin-left: -500px;
 }
 
 #name {
