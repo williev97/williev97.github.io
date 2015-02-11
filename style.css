@@ -1,11 +1,11 @@
-div {
+/*div {
   border-radius: 3px rgba(255, 255, 255, .5);
   border: 3px solid black;
   /*border-radius: 5px;*/
   height: 400px;
   width: 244px;
   background-color: aliceblue;
-}
+}*/
 
 #navbar {
 	position: fixed;
