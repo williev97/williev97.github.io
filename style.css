@@ -20,6 +20,8 @@ div {
   height: 100px;
   background-color: aliceblue;
   margin-bottom: 10px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
 }
 
 #footer {
