@@ -8,6 +8,7 @@ body {
 	left:50%;
 	margin-left:-254px;
 	background-color: black;
+	text-transform: uppercase;
 }
 
 #header {
