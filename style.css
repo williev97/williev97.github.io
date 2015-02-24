@@ -7,8 +7,6 @@ body {
 	top:10px;
 	left:50%;
 	margin-left:-254px;
-	background-color: black;
-	text-transform: uppercase;
 }
 
 #header {
@@ -33,6 +31,8 @@ ul{
 	list-style-type: none;
 	position: fixed;
 	margin: -10px;
+	background-color: black;
+	text-transform: uppercase;
 }
 
 li {
