@@ -3,37 +3,13 @@ body {
 }
 
 #navigation {
-	
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-.navlist {
-    width: 100%;
-    background-color: #333; 
-    padding-top: 90px; 
-    text-align:center;
-}
-
-.navlist ul {
-    margin: 0; padding: 0;
-}
-
-.navlist ul li {
-    display:inline;
-}
-
-.navlist ul li a {
-    text-decoration: none;
-    color: white; 
-    padding: 0px 20px;
-    display:inline-block;
-}
-
-.navlist ul li a:visited {
-    color: #333;
-}
-
-.navlist ul li a:hover, .menu ul li .current {
-    color: #333;
+#navigation {
+    display: inline;
 }
 
 
