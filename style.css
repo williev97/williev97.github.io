@@ -6,20 +6,35 @@ body {
 	
 }
 
-.nav{
-    border:1px solid #ccc;
-    border-width:1px 0;
-    list-style:none;
-    margin:0;
-    padding:0;
+.navlist {
+    width: 100%;
+    background-color: #333; 
+    padding-top: 90px; 
     text-align:center;
 }
-.nav li{
+
+.navlist ul {
+    margin: 0; padding: 0;
+    float: left;
+}
+
+.navlist ul li {
     display:inline;
 }
-.nav a{
+
+.navlist ul li a {
+    text-decoration: none;
+    color: white; 
+    padding: 0px 20px;
     display:inline-block;
-    padding:10px;
+}
+
+.navlist ul li a:visited {
+    color: #333;
+}
+
+.navlist ul li a:hover, .menu ul li .current {
+    color: #333;
 }
 
 
