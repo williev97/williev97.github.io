@@ -10,6 +10,8 @@ ul {
 
 li {
     display: inline;
+    position: relative;
+    margin: auto;
 }
 
 
