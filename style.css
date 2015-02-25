@@ -3,7 +3,7 @@ body {
 }
 
 #navigation {
-	position: fixed;
+	position: relative;
 	margin: auto;
 	top:10px;
 	left:50%;
