@@ -10,11 +10,15 @@ body {
 }*/
 
 .navigation {
+	float: left;
+	font-family: Geneva, Arial;
+	border: 1px solid #000000;
+}
 
-float: left;
-font-family: Geneva, Arial;
-border: 1px solid #000000;
-
+.navigation ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
 }
 
 #header {
