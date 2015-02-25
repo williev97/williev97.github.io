@@ -2,12 +2,13 @@ body {
 	background-color: gray;
 }
 
-/*#navbar {
+#navigation {
 	position: fixed;
+	margin: auto;
 	top:10px;
 	left:50%;
 	margin-left:-254px;
-}*/
+}
 
 /*Menu*/
 #navigation{
