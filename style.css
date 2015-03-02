@@ -12,6 +12,6 @@ body {
   width: 100%
 }
 
-#navigation {
+#navigation li {
 	display: inline;
 }
