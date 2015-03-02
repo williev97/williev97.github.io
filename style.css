@@ -40,7 +40,7 @@ li {
 	text-decoration: none;
 }
 
-li {
+#navigation li {
 	display: inline;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
