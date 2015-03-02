@@ -4,10 +4,14 @@ body {
 
 #header {
   position: relative;
-	top: -10px;
-	background-color: #3c4543;
+  top: -10px;
+  background-color: #3c4543;
   border-bottom-left-radius: 15px;
-	border-bottom-right-radius: 15px;
-	height: 80px;
-	width: 100%
+  border-bottom-right-radius: 15px;
+  height: 80px;
+  width: 100%
+}
+
+#navigation ul li {
+	display: inline;
 }
