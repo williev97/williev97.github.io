@@ -34,7 +34,7 @@ li {
 
 #navigation ul{
 	list-style-type: none;
-	position: relative;
+	/*position: relative;*/
 	margin: auto;
 	text-transform: uppercase;
 	text-decoration: none;
