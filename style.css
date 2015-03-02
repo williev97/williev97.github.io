@@ -1,19 +1,6 @@
 body {
 	background-color: gray;
-}
-
-/*ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    display: inline;
-    position: relative;
-    margin: auto;
-}*/
-
+	
 #header {
 	position: relative;
 	top: -10px;
@@ -30,24 +17,4 @@ li {
 	padding-top: 25px;
 	padding-bottom: 25px;
 	color: black;
-}
-
-#navigation ul{
-	list-style-type: none;
-	/*position: relative;*/
-	margin: auto;
-	text-transform: uppercase;
-	text-decoration: none;
-}
-
-#navigation li {
-	display: inline;
-	border: 2px solid #000000;
-	font-family: Futura, Tahoma, sans-serif;
-	color: #ffffff;
-	padding: 5px;
-	border-radius: 5px 5px;
-	background-color: black;
-	color: white;
-	text-decoration: none;
 }
