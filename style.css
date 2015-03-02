@@ -1,3 +1,13 @@
 body {
   background-color: gray;
 }
+
+#header {
+  position: relative;
+	top: -10px;
+	background-color: #3c4543;
+  border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	height: 80px;
+	width: 100%
+}
