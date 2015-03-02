@@ -34,11 +34,10 @@ li {
 
 #navigation ul{
 	list-style-type: none;
-	position: fixed;
-	margin: -10px;
+	position: relative;
+	margin: auto;
 	text-transform: uppercase;
 	text-decoration: none;
-	width: 50%;
 }
 
 li {
