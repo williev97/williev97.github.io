@@ -19,6 +19,6 @@ body {
 	color: black;
 }
 
-#navigation ul li {
+#navigation {
 	display: inline;
 }
