@@ -12,9 +12,7 @@ li {
     display: inline;
     position: relative;
     margin: auto;
-    text-align: center;
 }
-
 
 #header {
 	position: relative;
@@ -23,6 +21,7 @@ li {
 	border-bottom-left-radius: 15px;
 	border-bottom-right-radius: 15px;
 	height: 100px;
+	text-align: center;
 }
 
 #heading2 {
