@@ -21,7 +21,6 @@ li {
 	border-bottom-left-radius: 15px;
 	border-bottom-right-radius: 15px;
 	height: 100px;
-	text-align: center;
 }
 
 #heading2 {
@@ -39,6 +38,7 @@ ul{
 	margin: -10px;
 	text-transform: uppercase;
 	text-decoration: none;
+	text-align: center;
 }
 
 li {
