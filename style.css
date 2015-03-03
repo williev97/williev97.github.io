@@ -15,11 +15,12 @@ body {
 
 #title {
 	font-family: Impact, Charcoal, sans-serif;
-	font-weight: bold;
+	font-weight: none;
 	text-align: center;
 	padding-top: 25px;
 	padding-bottom: 25px;
 	color: black;
+	text-size: 25%
 }
 
 #navigation {
