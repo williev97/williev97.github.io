@@ -1,16 +1,16 @@
 body {
-  background-color: gray;
+	background-color: gray;
 }
 
 #header {
-  position: relative;
-  top: -10px;
-  background-color: #3c4543;
-  border-bottom-left-radius: 15px;
-  border-bottom-right-radius: 15px;
-  height: 80px;
-  width: 100%;
-  background-color: white;
+	position: relative;
+	top: -10px;
+	background-color: #3c4543;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+	height: 80px;
+	width: 100%;
+	background-color: white;
 }
 
 #navigation {
@@ -24,6 +24,7 @@ ul{
 }
 
 li {
+	position: relative;
 	display: inline;
 	border: 2px solid #000000;
 	font-family: Futura, Tahoma, sans-serif;
