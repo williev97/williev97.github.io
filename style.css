@@ -17,7 +17,7 @@ body {
 	
 }
 
-ul{
+#homenav {
 	list-style-type: none;
 	position: relative;
 	margin: -10px;
