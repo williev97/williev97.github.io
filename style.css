@@ -15,10 +15,9 @@ body {
 
 #title {
 	font-family: Impact, Charcoal, sans-serif;
-	font-weight: none;
 	text-align: center;
-/*	padding-top: 25px;
-	padding-bottom: 25px;*/
+	padding-top: 25px;
+	padding-bottom: 25px;
 	color: black;
 	font-size: px
 }
