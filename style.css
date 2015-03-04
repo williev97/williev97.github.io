@@ -12,3 +12,8 @@ body {
 	border: 1px solid black;
 	border-collapse: collapse;
 }
+
+#row1 {
+	text-align: center;
+	font-style: Impact;
+}
